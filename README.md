@@ -4,7 +4,7 @@ This repository contains the documentation for "Everybody Hates Ethan," a resear
 
 The primary goal was to analyze how the AI would handle a "zero-to-one-hundred" plot escalation model, similar to modern adult cartoons, and whether it could maintain character consistency amidst relentless, nonsensical events. This project moves beyond traditional narrative structures to explore the AI's performance under conditions of extreme creative chaos.
 
-**[➡️ Read the Full, In-Depth Case Study Here]([case_study.md](https://github.com/Noyonbond47/AI-to-use-absurd-storytelling/blob/main/case_study.md))**
+**[➡️ Read the Full, In-Depth Case Study Here]((https://github.com/Noyonbond47/AI-to-use-absurd-storytelling/blob/main/case_study.md))**
 
 ---
 
